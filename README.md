@@ -79,9 +79,11 @@ dashboard-comercial-powerbi/
 │   └── dataset_vendas.csv
 │
 ├── imagens/
-│   ├── dashboard-home.png
-│   ├── dashboard-vendas.png
-│   └── dashboard-analises.png
+│   ├── indice.png
+│   ├── narrativa-inteligente.png
+│   ├── principais-influenciadores.png
+│   ├── faixa-vendas.png
+│   └── mapa.png
 │
 └── README.md
 ```
