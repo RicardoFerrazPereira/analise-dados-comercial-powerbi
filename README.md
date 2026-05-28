@@ -56,14 +56,20 @@ Durante o desenvolvimento do projeto foram utilizados diversos recursos do Power
 
 # 📷 Preview do Dashboard
 
-## Página Inicial
-![Dashboard](imagens/dashboard-home.png)
+## Índice
+![Dashboard](imagens/indice.png)
 
-## Performance de Vendas
-![Dashboard](imagens/dashboard-vendas.png)
+## Narrativa Inteligente
+![Dashboard](imagens/narrativa-inteligente.png)
 
-## Análises Comerciais
-![Dashboard](imagens/dashboard-analises.png)
+## Principais Influenciadores de Vendas
+![Dashboard](imagens/principais-influenciadores.png)
+
+## Faixas de Vendas por Categoria e Pontos de Venda
+![Dashboard](imagens/faixa-vendas.png)
+
+## Performance dos Vendedores por Região
+![Dashboard](imagens/mapa.png)
 
 ---
 
